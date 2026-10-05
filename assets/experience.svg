@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="522" viewBox="0 0 1200 522" role="img" aria-label="Experience">
+<defs><pattern id="c" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#fff" stroke-opacity="0.035"/></pattern>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0B0D"/><stop offset="1" stop-color="#17181C"/></linearGradient></defs>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+<rect width="1200" height="522" fill="url(#g)"/><rect width="1200" height="522" fill="url(#c)"/>
+<rect x="0" y="0" width="6" height="522" fill="#E10600"><animate attributeName="height" from="0" to="522" dur="0.9s" fill="freeze"/></rect>
+<text x="64" y="44" fill="#FFFFFF" font-size="13" font-weight="700" letter-spacing="5">EXPERIENCE</text>
+<rect x="64" y="54" width="48" height="2" fill="#E10600"/>
+<text x="64" y="78" fill="#FFFFFF" font-size="17" font-weight="700">Drivetrain and Control Systems Engineer</text>
+<text x="1136" y="78" fill="#9CA3AF" font-size="13" letter-spacing="1" text-anchor="end">OCT 2025 – PRESENT</text>
+<text x="64" y="102" fill="#9CA3AF" font-size="14">aCentauri Solar Racing</text>
+<rect x="64" y="117" width="6" height="2" fill="#E10600"/>
+<text x="82" y="126" fill="#D1D5DB" font-size="15">Inverter and motor control: field-oriented control (FOC) in Simulink, sensorless PMSM, embedded C on PSoC C3,</text>
+<text x="82" y="148" fill="#D1D5DB" font-size="15">CAN communication</text>
+<rect x="64" y="161" width="6" height="2" fill="#E10600"/>
+<text x="82" y="170" fill="#D1D5DB" font-size="15">Photovoltaic string optimisation and MPPT modelling</text>
+<rect x="64" y="183" width="6" height="2" fill="#E10600"/>
+<text x="82" y="192" fill="#D1D5DB" font-size="15">Targets: 2026 European Solar Challenge, 2027 World Solar Challenge</text>
+<text x="64" y="228" fill="#FFFFFF" font-size="17" font-weight="700">Bachelor Thesis</text>
+<text x="1136" y="228" fill="#9CA3AF" font-size="13" letter-spacing="1" text-anchor="end">OCT 2025 – FEB 2026</text>
+<text x="64" y="252" fill="#9CA3AF" font-size="14">AMZ Racing Formula Student, ETH Zürich</text>
+<rect x="64" y="267" width="6" height="2" fill="#E10600"/>
+<text x="82" y="276" fill="#D1D5DB" font-size="15">Optimization-Based Torque Vectoring: real-time QP controller for yaw-rate tracking and tire utilisation</text>
+<rect x="64" y="289" width="6" height="2" fill="#E10600"/>
+<text x="82" y="298" fill="#D1D5DB" font-size="15">Supervisors: Prof. M. Zeilinger, Dr. A. Carron  ·  Grade: 5.75 / 6.0</text>
+<text x="64" y="334" fill="#FFFFFF" font-size="17" font-weight="700">Structural Engineer</text>
+<text x="1136" y="334" fill="#9CA3AF" font-size="13" letter-spacing="1" text-anchor="end">SEP 2023 – DEC 2024</text>
+<text x="64" y="358" fill="#9CA3AF" font-size="14">ARIS Rockets, Project Nicollier</text>
+<rect x="64" y="373" width="6" height="2" fill="#E10600"/>
+<text x="82" y="382" fill="#D1D5DB" font-size="15">3000 m apogee sounding rocket, two launches</text>
+<rect x="64" y="395" width="6" height="2" fill="#E10600"/>
+<text x="82" y="404" fill="#D1D5DB" font-size="15">Airbrake system CAD; composite manufacturing of fins, nosecone and fairing</text>
+<text x="64" y="440" fill="#FFFFFF" font-size="17" font-weight="700">Teaching Assistant</text>
+<text x="1136" y="440" fill="#9CA3AF" font-size="13" letter-spacing="1" text-anchor="end">SEP – DEC 2024</text>
+<text x="64" y="464" fill="#9CA3AF" font-size="14">ETH Zürich</text>
+<rect x="64" y="479" width="6" height="2" fill="#E10600"/>
+<text x="82" y="488" fill="#D1D5DB" font-size="15">Engineering Design and Material Selection: CAD, technical drawing, additive manufacturing</text>
+</g></svg>

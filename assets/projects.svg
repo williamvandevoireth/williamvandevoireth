@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="196" viewBox="0 0 1200 196" role="img" aria-label="Selected Projects">
+<defs><pattern id="c" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#fff" stroke-opacity="0.035"/></pattern>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0B0D"/><stop offset="1" stop-color="#17181C"/></linearGradient></defs>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+<rect width="1200" height="196" fill="url(#g)"/><rect width="1200" height="196" fill="url(#c)"/>
+<rect x="0" y="0" width="6" height="196" fill="#E10600"><animate attributeName="height" from="0" to="196" dur="0.9s" fill="freeze"/></rect>
+<text x="64" y="44" fill="#FFFFFF" font-size="13" font-weight="700" letter-spacing="5">SELECTED PROJECTS</text>
+<rect x="64" y="54" width="48" height="2" fill="#E10600"/>
+<text x="64" y="78" fill="#FFFFFF" font-size="17" font-weight="700">Traction Inverter, aCentauri Solar Racing</text>
+<rect x="64" y="93" width="6" height="2" fill="#E10600"/>
+<text x="82" y="102" fill="#D1D5DB" font-size="15">Simulink-based FOC with speed and torque control loops and CAN interface. 138 V DC bus, 40 A peak, PSoC C3.</text>
+<text x="64" y="138" fill="#FFFFFF" font-size="17" font-weight="700">PV String Optimisation (ss_solar_sim)</text>
+<rect x="64" y="153" width="6" height="2" fill="#E10600"/>
+<text x="82" y="162" fill="#D1D5DB" font-size="15">Bypass-diode dynamic programming, simulated annealing, string-length sweeps and an MPPT model.</text>
+</g></svg>
