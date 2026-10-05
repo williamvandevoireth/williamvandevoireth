@@ -1,9 +1,6 @@
 <div align="center">
 
-# William Vandevoir
-
-**Drivetrain and Control Systems Engineer · aCentauri Solar Racing**
-MSc Mechanical Engineering (Control Systems) · ETH Zürich
+<img src="assets/header.svg" alt="William Vandevoir, Drivetrain and Control Systems Engineer" width="100%" />
 
 </div>
 
@@ -59,7 +56,7 @@ Bypass-diode dynamic programming, simulated annealing, string-length sweeps and 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=williamvandevoireth&show_icons=true&theme=default&hide_border=true&title_color=1F2937&icon_color=1F2937&text_color=374151&bg_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamvandevoireth&layout=compact&theme=default&hide_border=true&title_color=1F2937&text_color=374151&bg_color=ffffff&langs_count=6&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=williamvandevoireth&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=E10600&text_color=D1D5DB&bg_color=0B0B0D&ring_color=E10600&count_private=true&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamvandevoireth&layout=compact&hide_border=true&title_color=FFFFFF&text_color=D1D5DB&bg_color=0B0B0D&langs_count=6&count_private=true" />
 
 </div>
