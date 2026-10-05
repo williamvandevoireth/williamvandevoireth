@@ -57,6 +57,5 @@ Bypass-diode dynamic programming, simulated annealing, string-length sweeps and 
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=williamvandevoireth&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=E10600&text_color=D1D5DB&bg_color=0B0B0D&ring_color=E10600&count_private=true&include_all_commits=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamvandevoireth&layout=compact&hide_border=true&title_color=FFFFFF&text_color=D1D5DB&bg_color=0B0B0D&langs_count=6&count_private=true" />
 
 </div>
