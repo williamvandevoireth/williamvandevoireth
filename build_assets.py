@@ -49,7 +49,7 @@ panel("education", "Education", [
 panel("experience", "Experience", [
     ("h", "Drivetrain and Control Systems Engineer", "OCT 2025 – PRESENT", "aCentauri Solar Racing"),
     ("b", "Inverter and motor control: field-oriented control (FOC) in Simulink, sensorless PMSM, embedded C on PSoC C3, CAN communication"),
-    ("b", "Photovoltaic string optimisation and MPPT modelling"),
+    ("b", "Photovoltaic layout optimization"),
     ("b", "Targets: 2026 European Solar Challenge, 2027 World Solar Challenge"), ("gap",),
     ("h", "Bachelor Thesis", "OCT 2025 – FEB 2026", "AMZ Racing Formula Student, ETH Zürich"),
     ("b", "Optimization-Based Torque Vectoring: real-time QP controller for yaw-rate tracking and tire utilisation"),
@@ -62,8 +62,8 @@ panel("experience", "Experience", [
 panel("projects", "Selected Projects", [
     ("h", "Traction Inverter, aCentauri Solar Racing"),
     ("b", "Simulink-based FOC with speed and torque control loops and CAN interface. 138 V DC bus, 40 A peak, PSoC C3."), ("gap",),
-    ("h", "PV String Optimisation (ss_solar_sim)"),
-    ("b", "Bypass-diode dynamic programming, simulated annealing, string-length sweeps and an MPPT model.")])
+    ("h", "PV Layout Optimization (ss_solar_sim)"),
+    ("b", "Bypass-diode dynamic programming, simulated annealing and string-length sweeps.")])
 panel("skills", "Technical Skills", [
     ("row", "Control & Modelling", "FOC, MPC / QP control, MATLAB / Simulink, PV simulation"),
     ("row", "Embedded", "C / C++, CAN, microcontrollers, RTOS"),

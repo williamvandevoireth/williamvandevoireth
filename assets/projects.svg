@@ -10,8 +10,8 @@
 <rect x="64" y="104" width="8" height="3" fill="#E10600"/>
 <text x="86" y="111" fill="#D1D5DB" font-size="18">Simulink-based FOC with speed and torque control loops and CAN interface.</text>
 <text x="86" y="137" fill="#D1D5DB" font-size="18">138 V DC bus, 40 A peak, PSoC C3.</text>
-<text x="64" y="175" fill="#FFFFFF" font-size="21" font-weight="700">PV String Optimisation (ss_solar_sim)</text>
+<text x="64" y="175" fill="#FFFFFF" font-size="21" font-weight="700">PV Layout Optimization (ss_solar_sim)</text>
 <rect x="64" y="195" width="8" height="3" fill="#E10600"/>
-<text x="86" y="202" fill="#D1D5DB" font-size="18">Bypass-diode dynamic programming, simulated annealing, string-length sweeps</text>
-<text x="86" y="228" fill="#D1D5DB" font-size="18">and an MPPT model.</text>
+<text x="86" y="202" fill="#D1D5DB" font-size="18">Bypass-diode dynamic programming, simulated annealing and string-length</text>
+<text x="86" y="228" fill="#D1D5DB" font-size="18">sweeps.</text>
 </g></svg>

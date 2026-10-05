@@ -13,7 +13,7 @@
 <text x="86" y="139" fill="#D1D5DB" font-size="18">Inverter and motor control: field-oriented control (FOC) in Simulink,</text>
 <text x="86" y="165" fill="#D1D5DB" font-size="18">sensorless PMSM, embedded C on PSoC C3, CAN communication</text>
 <rect x="64" y="184" width="8" height="3" fill="#E10600"/>
-<text x="86" y="191" fill="#D1D5DB" font-size="18">Photovoltaic string optimisation and MPPT modelling</text>
+<text x="86" y="191" fill="#D1D5DB" font-size="18">Photovoltaic layout optimization</text>
 <rect x="64" y="210" width="8" height="3" fill="#E10600"/>
 <text x="86" y="217" fill="#D1D5DB" font-size="18">Targets: 2026 European Solar Challenge, 2027 World Solar Challenge</text>
 <text x="64" y="255" fill="#FFFFFF" font-size="21" font-weight="700">Bachelor Thesis</text>
