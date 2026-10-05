@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="174" viewBox="0 0 1200 174" role="img" aria-label="About">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="206" viewBox="0 0 900 206" role="img" aria-label="About">
 <defs><pattern id="c" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#fff" stroke-opacity="0.035"/></pattern>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0B0D"/><stop offset="1" stop-color="#17181C"/></linearGradient></defs>
 <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
-<rect width="1200" height="174" fill="url(#g)"/><rect width="1200" height="174" fill="url(#c)"/>
-<rect x="0" y="0" width="6" height="174" fill="#E10600"><animate attributeName="height" from="0" to="174" dur="0.9s" fill="freeze"/></rect>
-<text x="64" y="44" fill="#FFFFFF" font-size="13" font-weight="700" letter-spacing="5">ABOUT</text>
-<rect x="64" y="54" width="48" height="2" fill="#E10600"/>
-<text x="64" y="78" fill="#D1D5DB" font-size="16">Mechanical engineering student at ETH Zürich specialising in control systems and robotics. My work focuses on motor</text>
-<text x="64" y="104" fill="#D1D5DB" font-size="16">control and drivetrain design for electric vehicles, optimization-based vehicle control, and photovoltaic system</text>
-<text x="64" y="130" fill="#D1D5DB" font-size="16">modelling and simulation.</text>
+<rect width="900" height="206" fill="url(#g)"/><rect width="900" height="206" fill="url(#c)"/>
+<rect x="0" y="0" width="6" height="206" fill="#E10600"><animate attributeName="height" from="0" to="206" dur="0.9s" fill="freeze"/></rect>
+<text x="64" y="46" fill="#FFFFFF" font-size="16" font-weight="700" letter-spacing="4">ABOUT</text>
+<rect x="64" y="58" width="56" height="2" fill="#E10600"/>
+<text x="64" y="84" fill="#D1D5DB" font-size="19">Mechanical engineering student at ETH Zürich specialising in control systems and</text>
+<text x="64" y="113" fill="#D1D5DB" font-size="19">robotics. My work focuses on motor control and drivetrain design for electric</text>
+<text x="64" y="142" fill="#D1D5DB" font-size="19">vehicles, optimization-based vehicle control, and photovoltaic system modelling</text>
+<text x="64" y="171" fill="#D1D5DB" font-size="19">and simulation.</text>
 </g></svg>

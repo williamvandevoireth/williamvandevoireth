@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Education">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Education">
 <defs><pattern id="c" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#fff" stroke-opacity="0.035"/></pattern>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0B0D"/><stop offset="1" stop-color="#17181C"/></linearGradient></defs>
 <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
-<rect width="1200" height="200" fill="url(#g)"/><rect width="1200" height="200" fill="url(#c)"/>
-<rect x="0" y="0" width="6" height="200" fill="#E10600"><animate attributeName="height" from="0" to="200" dur="0.9s" fill="freeze"/></rect>
-<text x="64" y="44" fill="#FFFFFF" font-size="13" font-weight="700" letter-spacing="5">EDUCATION</text>
-<rect x="64" y="54" width="48" height="2" fill="#E10600"/>
-<text x="64" y="78" fill="#FFFFFF" font-size="17" font-weight="700">MSc Mechanical Engineering, Control Systems</text>
-<text x="1136" y="78" fill="#9CA3AF" font-size="13" letter-spacing="1" text-anchor="end">FEB 2026 – PRESENT</text>
-<text x="64" y="102" fill="#9CA3AF" font-size="14">ETH Zürich</text>
-<text x="64" y="140" fill="#FFFFFF" font-size="17" font-weight="700">BSc Mechanical Engineering, Robotics &amp; Control</text>
-<text x="1136" y="140" fill="#9CA3AF" font-size="13" letter-spacing="1" text-anchor="end">SEP 2022 – FEB 2026</text>
-<text x="64" y="164" fill="#9CA3AF" font-size="14">ETH Zürich</text>
+<rect width="900" height="210" fill="url(#g)"/><rect width="900" height="210" fill="url(#c)"/>
+<rect x="0" y="0" width="6" height="210" fill="#E10600"><animate attributeName="height" from="0" to="210" dur="0.9s" fill="freeze"/></rect>
+<text x="64" y="46" fill="#FFFFFF" font-size="16" font-weight="700" letter-spacing="4">EDUCATION</text>
+<rect x="64" y="58" width="56" height="2" fill="#E10600"/>
+<text x="64" y="84" fill="#FFFFFF" font-size="21" font-weight="700">MSc Mechanical Engineering, Control Systems</text>
+<text x="860" y="84" fill="#E10600" font-size="14" font-weight="700" letter-spacing="1" text-anchor="end">FEB 2026 – PRESENT</text>
+<text x="64" y="111" fill="#9CA3AF" font-size="17">ETH Zürich</text>
+<text x="64" y="151" fill="#FFFFFF" font-size="21" font-weight="700">BSc Mechanical Engineering, Robotics &amp; Control</text>
+<text x="860" y="151" fill="#E10600" font-size="14" font-weight="700" letter-spacing="1" text-anchor="end">SEP 2022 – FEB 2026</text>
+<text x="64" y="178" fill="#9CA3AF" font-size="17">ETH Zürich</text>
 </g></svg>
